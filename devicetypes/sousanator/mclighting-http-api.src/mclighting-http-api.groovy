@@ -392,7 +392,7 @@ metadata {
         	state "val", label: '58- Custom 2', backgroundColor: "#ffffff", action: "setScene58" 
         }
         standardTile("scene59", "scene59", width: 2, height: 1, decoration: "flat") {
-        	state "val", label: '59- Costom 3', backgroundColor: "#ffffff", action: "setScene59" 
+        	state "val", label: '59- Custom 3', backgroundColor: "#ffffff", action: "setScene59" 
         }
 		
 		standardTile("sceneDecrement", "scene", width: 1, height: 1, decoration: "flat") {
