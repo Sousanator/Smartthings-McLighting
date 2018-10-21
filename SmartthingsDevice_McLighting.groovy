@@ -12,7 +12,7 @@
  *
  */
  
-
+//Smartthings Device Handler for McLighting v2 https://github.com/toblum/McLighting
 metadata {
 	definition (name: "McLighting HTTP API", namespace: "Sousanator", author: "Sousanator") {
 		capability "Switch"
