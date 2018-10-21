@@ -10,4 +10,4 @@ This device handler can turn on/off the lights, set any color, set the brightnes
 ![Device](https://github.com/Sousanator/Smartthings-McLighting/blob/master/Smartthings_McLighting_Device.jpg)
 
 Prefrences
-![Alt text](Smartthings-McLighting/Smartthings_McLighting_Preferences.png?raw=true "Title")
+![Preferences](https://github.com/Sousanator/Smartthings-McLighting/blob/master/Smartthings_Mclighting_Preferences.jpg?raw=true "Title")
