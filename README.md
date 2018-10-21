@@ -11,7 +11,9 @@ I just wanted something quick and dirty to be able to control my light strips wi
 
 
 Device:
+
 ![Device](https://github.com/Sousanator/Smartthings-McLighting/blob/master/Smartthings_McLighting_Device.jpg)
 
 Prefrences:
+
 ![Preferences](https://github.com/Sousanator/Smartthings-McLighting/blob/master/Smartthings_Mclighting_Preferences.jpg)
