@@ -7,7 +7,7 @@ I just wanted something quick and dirty to be able to control my light strips wi
 This device handler can turn on/off the lights, set any color, set the brightness, change the scene, set the animation speed, and the ability to save and call all of the above with 6 different presets.
 
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](Smartthings-McLighting/Smartthings_McLighting_Device.png?raw=true "Title")
 
 Prefrences
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](Smartthings-McLighting/Smartthings_McLighting_Preferences.png?raw=true "Title")
