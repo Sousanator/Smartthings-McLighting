@@ -6,8 +6,10 @@ I just wanted something quick and dirty to be able to control my light strips wi
 
 This device handler can turn on/off the lights, set any color, set the brightness, change the scene, set the animation speed, and the ability to save and call all of the above with 6 different presets.
 
+Add this device handler in your Smartthings IDE. Create a new device with the above device handler.  In the preferences add the IP address, and port (80 by default) of your Mclighting controller 
 
+Device:
 ![Device](https://github.com/Sousanator/Smartthings-McLighting/blob/master/Smartthings_McLighting_Device.jpg)
 
-Prefrences
-![Preferences](https://github.com/Sousanator/Smartthings-McLighting/blob/master/Smartthings_Mclighting_Preferences.jpg?raw=true "Title")
+Prefrences:
+![Preferences](https://github.com/Sousanator/Smartthings-McLighting/blob/master/Smartthings_Mclighting_Preferences.jpg)
